@@ -1,3 +1,2 @@
 #!/bin/bash
-0-bring_me_home contains 3
-it should be 2
+pwd
