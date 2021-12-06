@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "0-bring_me_home contains 1, it should be 2"
+cd "0-bring_me_home contains 1, it should be 2"
